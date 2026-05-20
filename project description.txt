@@ -1,0 +1,40 @@
+Blood Bank Management System
+
+A console-based Blood Bank Management System developed in C++ to manage donor records, blood stock, and patient requests efficiently. This project helps in organizing blood bank operations through a simple and user-friendly interface.
+
+Features
+Add and manage donor information
+Store blood group records
+Search donors by blood group
+Update and delete records
+Manage blood availability
+Patient request handling
+Simple menu-driven interface
+File handling for data storage
+Technologies Used
+C++
+Object-Oriented Programming (OOP)
+File Handling
+Data Structures Basics
+Purpose of the Project
+
+This project was created to improve understanding of:
+
+C++ programming concepts
+File management
+Real-world system development
+How to Run
+Clone the repository
+Open the project in any C++ IDE
+Compile and run the source file
+g++ main.cpp -o bloodbank
+./bloodbank
+Future Improvements
+GUI version
+Database integration
+Online donor registration
+Admin authentication system
+Report generation
+Author
+
+KB– UI/UX Designer & Web Designer / Developer
